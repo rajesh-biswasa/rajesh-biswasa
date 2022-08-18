@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Web Development, Java, MySQL, Spring.**
 
-- 👨‍💻 Check out my personal portfolio : **<a href="#" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="rajesh-portfolio.vercel.app" target="_blank">Portfolio</a>**
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh-biswasa&label=Profile%20views&color=0e75b6&style=flat" alt="biswasraj" /> </p>
