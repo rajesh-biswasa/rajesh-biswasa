@@ -3,7 +3,7 @@
 
 
 
-- 🌱 Learning Never Stops 🚀 <img style="width: 35px;" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76110e610b01a69f81b46a03169749660cbe58463ac4&rid=giphy.gif&ct=g" alt=""> 
+- 🌱 Learning Never Stops 🚀 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76110e610b01a69f81b46a03169749660cbe58463ac4&rid=giphy.gif&ct=g" alt=""> 
 
 - 💬 Ask me about **Web Development, Java, MySQL, Spring.**
 
