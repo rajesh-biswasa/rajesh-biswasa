@@ -10,9 +10,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
  </div>
 
-- 🌱 Learning Never Stops 🚀
 - 🎓 I graduated form Techno India University, Kolkata (B.Tech, Computer Science and Engineering, Batch of 2020).
-
+-  <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming.
+-  🌱 Learning Never Stops 🚀
 - 👨‍💻 Check out my personal portfolio : **<a href="https://rajesh-biswasa.github.io/" target="_blank">Portfolio</a>**
 
 <br>
@@ -53,9 +53,14 @@
   <a href="https://t.me/r_ajeshbiswas"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
 
+<!-- Profile Trophy -->
+<h2 align="left"><i>🏆 GitHub Profile Trophy:</i></h2>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=rajesh-biswasa&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+</a>
 
+<h2 align="left"><i>My GitHub Statistics 📈</i></h2>
 
-<h2 align="left"><i>My GitHub Stats</i></h2>
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=rajesh-biswasa&show_icons=true&theme=dark&locale=en" alt="rajesh-biswasa" /></td>
@@ -67,4 +72,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajesh-biswasa&show_icons=true&theme=dark&locale=en&layout=compact" alt="rajesh-biswasa" />
   </div>
+<!--   GitHub stats graph -->
+<h2 align="left"><i>📈 GitHub Activity Graph:</i></h2>
+   <img src="https://activity-graph.herokuapp.com/graph?username=rajesh-biswasa&theme=github" />
 
