@@ -1,11 +1,18 @@
 <h1 align="center"> Hi,<img style="width: 35px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt=""> I'm <a href="https://www.linkedin.com/in/rajesh-biswasa/" target="_blank"> Rajesh Biswas </a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Java+Backend+Developer+%3A)" /> </h3>
+<!-- <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Java+Backend+Developer+%3A)" /> </h3> -->
 
+<p align="center"><img src="animation.gif" width="35%"></p>
+<div style=" font-size: medium; color: #447ff7" align=center>
 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=I+am+a+Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Java+Backend+Developer+%E2%9A%99%EF%B8%8F;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Rajesh Biswas" width="650" height="55">
 
-- 🌱 Learning Never Stops 🚀 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76110e610b01a69f81b46a03169749660cbe58463ac4&rid=giphy.gif&ct=g" alt=""> 
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
+ </div>
+<br>
 
-- 💬 Ask me about **Web Development, Java, MySQL, Spring.**
+- 🌱 Learning Never Stops 🚀
+- 🎓 I graduated form Techno India University, Kolkata (B.Tech, Computer Science and Engineering, Batch of 2020).
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://rajesh-biswasa.github.io/" target="_blank">Portfolio</a>**
 
