@@ -11,10 +11,15 @@
  </div>
 
 - 🎓 I graduated form Techno India University, Kolkata (B.Tech, Computer Science and Engineering, Batch of 2020).
+- 🌱 I’m currently learning **Java, SQL, Hibernate and Spring.**
+- 🌱 Learning Never Stops 🚀
 -  <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming.
--  🌱 Learning Never Stops 🚀
-- 👨‍💻 Check out my personal portfolio : **<a href="https://rajesh-biswasa.github.io/" target="_blank">Portfolio</a>**
-- 👨‍💻 Check out my Resume : **<a href="https://drive.google.com/file/d/1yp574O0eBi2LrsqJ0pPQqnKmiDI3AKJQ/view" target="_blank">Resume</a>**
+
+- 👨‍💻 Want to know more about me? Checkout [My Portfolio](https://rajesh-biswasa.github.io/) and [Resume](https://drive.google.com/file/d/1yp574O0eBi2LrsqJ0pPQqnKmiDI3AKJQ/view)
+
+- 💬 Ask me about **Java, Spring, RestApi, Backend.**
+
+- 📫 How to reach me **rajeshbiswasa@gmail.com**
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh-biswasa&label=Profile%20views&color=0e75b6&style=flat" alt="biswasraj" /> </p>
