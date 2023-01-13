@@ -1,13 +1,13 @@
 <h1 align="center"> Hi,<img style="width: 35px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt=""> I'm <a href="https://www.linkedin.com/in/rajesh-biswasa/" target="_blank"> Rajesh Biswas </a></h1>
 <!-- <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Java+Backend+Developer+%3A)" /> </h3> -->
 
-<p align="center"><img src="animation.gif" width="35%"></p>
+<p align="center"><img src="amnimation.gif" width="35%"></p>
 <div style=" font-size: medium; color: #447ff7" align=center>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=I+am+a+Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Java+Backend+Developer+%E2%9A%99%EF%B8%8F" alt="Rajesh Biswas" width="650" height="55">
 
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  </div>
 
 - 🎓 I graduated form Techno India University, Kolkata (B.Tech, Computer Science and Engineering, Batch of 2020).
